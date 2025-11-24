@@ -1,2 +1,3 @@
 this is to test the build trigggers in the jenkins
 this is to check wether the poll scm trigger is working
+poll scm is not working when i commited the changes
