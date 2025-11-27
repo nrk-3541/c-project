@@ -5,3 +5,4 @@ github trigger isnt woking
 github poll scm tirgger shouuld work when it is enabled and configured in the jenkins job
 this is to check the github polling by scm change.
 if webhook is enabled to the job then automatically the job will get triggered
+by webhooks only we can trigger the job by pusing the changes to github
