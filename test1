@@ -6,3 +6,4 @@ this is the work of GITHUB SCM in the build trigger section
 github git scm trigger isnt working
 it wasnt working beacuse the slave machine was offline
 im trying for the poll scm i dont think it will trigger the job beaacuse i have set to  to every minute the moment i commit then the jenkins job needs to be triggered.
+even if i commit the changes the trigger in the jenkins isnt working.
