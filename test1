@@ -4,3 +4,4 @@ poll scm is not working when i commited the changes
 poll scm is working fine when i commit the changes in the gihub files
 this is the work of GITHUB SCM in the build trigger section
 github git scm trigger isnt working
+it wasnt working beacuse the slave machine was offline
