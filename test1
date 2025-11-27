@@ -2,3 +2,4 @@ this is to test the build trigggers in the jenkins
 this is to check wether the poll scm trigger is working
 poll scm is not working when i commited the changes
 poll scm is working fine when i commit the changes in the gihub files
+this is the work of GITHUB SCM in the build trigger section
