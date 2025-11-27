@@ -2,3 +2,4 @@ test2
 THIS IS TO CHECK WETHER THE WEBHOOK IS TRIGGERING OR NOT
 this is to check wether the github scm poll is working
 github trigger isnt woking
+github poll scm tirgger shouuld work when it is enabled and configured in the jenkins job
